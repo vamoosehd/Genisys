@@ -1,0 +1,20 @@
+[
+{
+  "modid": "Genisys",
+  "name": "Genisys",
+  "description": "Todds mod",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "updateUrl": "",
+  "authorList": [
+    "VamooseHD"
+  ],
+  "credits": "VamooseHD",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
